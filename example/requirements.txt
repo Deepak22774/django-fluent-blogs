@@ -45,3 +45,4 @@ django-fluent-pages >= 2.0
 
 ## For text plugin
 #django-wysiwyg >= 0.7.1
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
